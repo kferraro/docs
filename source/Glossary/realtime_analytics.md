@@ -1,7 +1,8 @@
 ---
 seo:
   title: Realtime Analytics
-  description: Realtime Analytics helps you to improve your email deliverability ....
+  description: Realtime analytics allows you to drive solid business decisions with precise analytics on your transactional and 
+marketing email campaigns. Easily categorize separate email campaigns and track statistics down to the email address. 
 title: Email Marketing
 weight: 0
 layout: page
